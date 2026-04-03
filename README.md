@@ -1,2 +1,2 @@
-# Linux-scripts-demo
+# Git-demo
 Demo for git practices
